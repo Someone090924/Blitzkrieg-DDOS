@@ -67,5 +67,3 @@ If you have any questions or need help, you can contact me at:
 
 Happy learning and use responsibly!
 ```
-
-This document provides a detailed explanation of the script's purpose and usage, along with a description of the term "Blitzkrieg" to give context to the script's name.
