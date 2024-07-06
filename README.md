@@ -34,7 +34,7 @@ pip install requests
 
 2. **Run the script**:
     ```bash
-    python blitzkrieg_ddos.py
+    python main.py
     ```
 
 3. **Enter the target URL**:
